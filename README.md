@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm interested in learning about the AI/ML concepts through python.
+I'm currently learning python and C.
 
 <!--
 **garvmangla16/garvmangla16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
